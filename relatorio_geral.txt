@@ -1,0 +1,19 @@
+📊 RELATÓRIO DE VENDAS 📊
+
+Total Faturado: R$ 3710.00
+Média Diária de Faturamento: R$ 927.50
+Dia com maior faturamento: 2024-01-04 (R$ 1700.00)
+
+Top 3 Produtos Mais Vendidos (em quantidade):
+Produto
+Mouse       5
+Fone        4
+Mousepad    4
+
+Faturamento por Produto:
+Produto
+Monitor     2400.0
+Teclado      450.0
+Fone         400.0
+Mouse        300.0
+Mousepad     160.0
