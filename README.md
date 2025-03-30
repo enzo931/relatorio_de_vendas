@@ -46,7 +46,7 @@ Execute o programa no terminal:
 
 python relatorio_vendas_completo.py
 
-📤 Arquivos Gerados
+## 📤 Arquivos Gerados
 
 relatorio_geral.txt → resumo geral do faturamento
 
